@@ -22,7 +22,7 @@ def results(x):
     return result
 
 
-class TestResults(unittest.TestCase):
+class Test(unittest.TestCase):
     "testcase"
     def test_more90(self):
         "more than 90 degree"
